@@ -6,7 +6,7 @@ Des d'un client ( Windows 10 Pro ) creem una Connexió Remota amb el Servidor. N
 * Que el Firewall no tinga cap regla impedint-ho.
 
 
-<img width=60% src="seguretataccescompartitremot/habilitarescritorioremoto.png"></img>
+<img width=60% src="seguretataccescompartitremot/HabilitarPropiedadesdelSistema.png"></img>
 
 
 ## Modificació de la GPO Default Domain Policy
