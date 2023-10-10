@@ -1,33 +1,12 @@
 
-## Resum
-En esta segona part vorem alguns aspectes relacionats amb la compartició de dades, la seguretat lògica i física d'estes i l'accès a les m`quines.
-
-1.  Compartició de carpetes ( Permisos Sharing )
-2.  Permisos NTFS
-3.  Contrassenyes d'usuari.
-4.  Drets per iniciar sessió i Accés remot.
-5.  RAID
-6.  Backups
-
-## 1 CARPETES COMPARTIDES
-
-Useu la consola **fsmgmt.msc** de CARPETES COMPARTIDES per crear, compartir i assignar permisos NTFS.
-
-Caldrà crear una nova Directiva de Grup. Podem entrar executant **gpmc.msc**. 
-Creem una directiva de grup que vincularem al domini o una UO (que vorem més avant) que ens interesse o al Domini.
-
-<img width=60% src="WINDOWSSERVER/CC1.png"></img>
-
-Des d'esta consola podem gestionar molt millor els recursos compartits (vore els ocults, eliminar algun que ha desaparegut o canviat, tancar algun fitxer o sessió que haja quedat oberta... ).
-
-### GPO per a capturar unitats de xarxa.
+# Capturar capturar unitats de xarxa.
 
 Creem una Directiva de Grup que per a que tots els usuaris, en iniciar sessió al domini, tinguen capturada una unitat de xarxa. D'altra forma caldría usar en "net use" des de cada màquina ( scrpit o bat en l'inici)
 <img width=90% src="WINDOWSSERVER/GPINICIEditar2.png"></img>
 
 ## 2 CONTRASSENYES (Directives de Windows)
 
-### GPO per a les contrassenyes dels usuaris.
+## GPO per a les contrassenyes dels usuaris.
 
 Caldrà crear una nova Directiva de Grup, ( entre a la consola amb **gpmc.msc**)
 Creem una directiva de grup que vincularem al domini o la UO que ens interesse o al Domini.
