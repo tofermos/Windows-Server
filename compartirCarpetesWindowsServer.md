@@ -12,6 +12,10 @@ Des del Servidor compartim unes carpetes.
 
 <img width=60% src="PermisosSHARE/CarpetesCompartides2.png"></img>
 
+Podeu usar la consola **fsmgmt.msc** de CARPETES COMPARTIDES per crear, compartir i assignar permisos NTFS.
+
+<img width=60% src="WINDOWSSERVER/CC1.png"></img>
+
 ## 4.2 COMPARTICIÓ AVANÇADA.
 
 **CONTROL TOTAL** Permís per a canviar el permisos i propietari.
