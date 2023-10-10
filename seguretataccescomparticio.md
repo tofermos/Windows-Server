@@ -46,9 +46,9 @@ Des d'un client ( Windows 10 Pro ) creem una Connexió Remota amb el Servidor. N
 * Que l'usuari en concret estiga habilitat per usar-lo.
 * Que el Firewall no tinga cap regla impedint-ho.
 
->Inicieu una sessió remota des del client i entreu a l'explorador del Servidor.
+>Inicieu una sessió remota des del client i entreu a l'explorador del Servidor
 
-<img width=60% src="seguretataccescompartitremot/habilitarescritorioremoto.png"</img>
+<img width=60% src="seguretataccescompartitremot/habilitarescritorioremoto.png"></img>
 
 <img width=60% src="WINDOWSSERVER/8.png"></img>
 
