@@ -32,7 +32,7 @@ Desavantages:
 
 # Carpetes personals
 
-Son unes carpetes que poden ser emprades per desar els treballs de cada usuarir a efecte de centralitzar els backups. Mentre el perfil mòbil quedaria per a dades menys permaments o particulars. 
+Son unes carpetes que poden ser emprades per desar els treballs de cada usuari a efecte de centralitzar els backups. Mentre el perfil mòbil quedaria per a dades menys permaments o particulars. 
 
 # Captura d'unitats de xarxa
 
