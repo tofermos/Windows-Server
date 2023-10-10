@@ -5,7 +5,7 @@
 3.  [Compartició de carpetes. Permisos SHARE][Permisos SHARE en Windows Server]
 4.  [Escriptori remot][Escriptori Remot]
 5.  [RAIDs i Backup en Windows Server][RAIDs i Backup en Windows Server]
-6.  [Perfils mòbils][Perfils mòbils]
+6.  [Perfils mòbils, carpetes de treball i unitats de xarxa][Perfils mòbils]
 
 
 [Implantació de l'AD-DS]:https://github.com/tofermos/Windows-Server/blob/main/ADDSenWindowsServerGUI.md
