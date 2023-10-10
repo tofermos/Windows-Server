@@ -6,7 +6,8 @@
 4.  [Escriptori remot][Escriptori Remot]
 
 
-[Implantació de l'AD-DS]:https://github.com/tofermos/SistemesOperatius/blob/main/ADDSenWindowsServerGUI.md
-[Afegir un client Windows 1x al Domini]:https://github.com/tofermos/SistemesOperatius/blob/main/afegirWindows10aDominiWindowsServer.md
-[Permisos SHARE en Windows Server]:https://github.com/tofermos/SistemesOperatius/blob/main/compartirCarpetesWindowsServer.md
-[Escriptori Remot]:https://github.com/tofermos/SistemesOperatius/blob/main/AccesRemot.md
+[Implantació de l'AD-DS]:https://github.com/tofermos/Windows-Server/blob/main/ADDSenWindowsServerGUI.md
+[Afegir un client Windows 1x al Domini]:https://github.com/tofermos/Windows-Server/blob/main/afegirWindows10aDominiWindowsServer.md
+[Permisos SHARE en Windows Server]:https://github.com/tofermos/Windows-Server/blob/main/compartirCarpetesWindowsServer.md
+[Escriptori Remot]:https://github.com/tofermos/Windows-Server/blob/main/AccesRemot.md
+
