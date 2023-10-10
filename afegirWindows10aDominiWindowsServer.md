@@ -79,5 +79,8 @@ Com la màquina client ja pertany al domini, en iniciar sessió del Windows 1x n
 * Amb este usuari, si es podria fer Administrador Local ( del Windows 1x ) a l'usuari del domini ( "usuari1")
 * Quan iniciem sessió en el domini, caldrà fixar-se i, si cal, avantposar també el **nom netbios del domini** ("FERRANDIS\usuari1")
 
-*  ANTERIOR UNITAT: INSTAL·LACIÓ I CONFIGURACIÓ D'UN AD-DS
+  Fi.
+  
+
+* ANTERIOR UNITAT: INSTAL·LACIÓ I CONFIGURACIÓ D'UN AD-DS
 *  SEGÜENT UNITAT: CARPETES COMPARTIDES SHARE
