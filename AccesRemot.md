@@ -29,4 +29,7 @@ Revisem les restriccions possibles del FireWall.
 *  Regles entrants.
 *  Aplicacions permeses.
 
+<img width=60% src="seguretataccescompartitremot/AdministracionRemota.png"></img>
+<img width=60% src="seguretataccescompartitremot/FirewallEscritorioRemoto.png"></img>
+
 
