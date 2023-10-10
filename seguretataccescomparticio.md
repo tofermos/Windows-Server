@@ -52,7 +52,7 @@ Des d'un client ( Windows 10 Pro ) creem una Connexió Remota amb el Servidor. N
 
 <img width=60% src="WINDOWSSERVER/8.png"></img>
 
-### Modifiació de la GPO Default Domain Policy
+### Modificació de la GPO Default Domain Policy
 
 Si volem iniciar sessió remota al servidor amb un usuari que no és Administrador, ho haurem de configurar, evidentment, per defecte ve inhabilitat.
 
