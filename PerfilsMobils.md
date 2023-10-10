@@ -35,10 +35,13 @@ Desavantages:
 Son unes carpetes que poden ser emprades per desar els treballs de cada usuari a efecte de centralitzar els backups. Mentre el perfil mòbil quedaria per a dades menys permaments o particulars. 
 
 L'exemple següent veiem com assignem una unitat a una carpeta compartida al servidor ( des del matei servidor!). Accedint a ella entrarem a través de la xarxa.
+
 <img width=60% src="seguretataccescompartitremot/netShare.png"></img>
+
 <img width=60% src="seguretataccescompartitremot/netUSe.png"></img>
 
 <img width=60% src="WINDOWSSERVER/permisosPerfils3.png"></img>
+
 <img width=60% src="WINDOWSSERVER/permisosPerfils3.png"></img>
 
 # Captura d'unitats de xarxa
