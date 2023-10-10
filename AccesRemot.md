@@ -8,7 +8,6 @@ Des d'un client ( Windows 10 Pro ) creem una Connexió Remota amb el Servidor. N
 
 <img width=60% src="seguretataccescompartitremot/habilitarescritorioremoto.png"></img>
 
-<img width=60% src="WINDOWSSERVER/8.png"></img>
 
 ## Modificació de la GPO Default Domain Policy
 
@@ -18,6 +17,10 @@ Si volem iniciar sessió remota al servidor amb un usuari que no és Administrad
 
 <img width=60% src="gpo/gpoRemot2.png"></img>
 
+## Accès des del client
+
+<img width=60% src="WINDOWSSERVER/8.png"></img>
+
 <img width=60% src="gpo/gpoRemot3.png"></img>
 <img width=60% src="gpo/gpoRemot4.png"></img>
 
@@ -25,4 +28,5 @@ Si volem iniciar sessió remota al servidor amb un usuari que no és Administrad
 Revisem les restriccions possibles del FireWall. 
 *  Regles entrants.
 *  Aplicacions permeses.
+
 
