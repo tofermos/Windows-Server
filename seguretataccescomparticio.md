@@ -48,7 +48,7 @@ Des d'un client ( Windows 10 Pro ) creem una Connexió Remota amb el Servidor. N
 
 >Inicieu una sessió remota des del client i entreu a l'explorador del Servidor.
 
-<img width=70% src="seguretataccescompartitremot/habilitarescritorioremoto.png"</img>
+<img width=60% src="seguretataccescompartitremot/habilitarescritorioremoto.png"</img>
 
 <img width=60% src="WINDOWSSERVER/8.png"></img>
 
