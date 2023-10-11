@@ -28,6 +28,7 @@ El "-persistent" és per assegurar que, en reiniciar el PC, es mantinga la captu
 ## GPO per a capturar unitats de xarxa.
 
 Creem una Directiva de Grup que per a que tots els usuaris, en iniciar sessió al domini, tinguen capturada una unitat de xarxa. D'altra forma caldría usar en "net use" des de cada màquina ( scrpit o bat en l'inici)
-<img width=90% src="WINDOWSSERVER/GPINICIEditar2.png"></img>
+
+<img width=90% src="unitatsDeXarxa/CapturaGPO.png"></img>
 
 
