@@ -23,6 +23,8 @@ Modifiquem la directiva de seguretat que permet l'accès remot al Servidor
 
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto2.png"></img>
 
+Encara que l'usuari no siga administrador podrà iniciar sessió de forma remota en este servidor
+
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto3.png"></img>
 
 Afegim l'usuari que ens interessa...
