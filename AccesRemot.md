@@ -11,27 +11,23 @@ Des d'un client ( Windows 10 Pro ) creem una Connexió Remota amb el Servidor. N
 
 Si volem iniciar sessió remota al servidor amb un usuari que no és Administrador, ho haurem de configurar, evidentment, per defecte ve inhabilitat.
 
-
-<img width=60% src="seguretataccescompartitremot/HabilitarPropiedadesdelSistema.png"></img>
-
 Obrim la consola d'Administració de Directives de Grup
 
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto1.png"></img>
 
-Modifiquem la directiva de seguretat que permet l'accès remot al Servidor
+Editem la Directiva del Domini per Defecte.
 
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto2.png"></img>
 
-Encara que l'usuari no siga administrador o altres grups especials, podrà iniciar sessió de forma remota en este servidor
-
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto3.png"></img>
 
-Afegim l'usuari que ens interessa...
+Mirem el valor per defecte en la pestanya "Explicación". En este cas nomé spoden inciar sessió d'escriptori remot determinants grups.
+
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto4.png"></img>
 
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto5.png"></img>
 
-::NOTA:: Recordeu executar el gpupdate /force
+:NOTA: Recordeu executar el gpupdate /force
 
 ```
 gpupdate /force
