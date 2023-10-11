@@ -21,7 +21,9 @@ Des de l'Administrador de Servidor o excutant **gpmc.msc**
 Editem la Directiva del Domini per Defecte (Default Domain Police).
 
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto2.png"></img>
+
 Es tracta donar a l'usuari el dret de inciar sessió de forma remota.
+
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto3.png"></img>
 
 Devem observar el valor per defecte en la pestanya "Explicación". En este cas només podien iniciar sessió d'escriptori remot determinants grups.
