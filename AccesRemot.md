@@ -25,11 +25,13 @@ Modifiquem la directiva de seguretat que permet l'accès remot al Servidor
 
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto3.png"></img>
 
+Afegim l'usuari que ens interessa...
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto4.png"></img>
 
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto5.png"></img>
 
-:NOTA: Recordeu executar el gpupdate /force
+::NOTA:: Recordeu executar el gpupdate /force
+
 ```
 gpupdate /force
 ```
