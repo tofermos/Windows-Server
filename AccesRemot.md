@@ -51,7 +51,7 @@ gpupdate /force
 Si l'usuari no està autoritzat com hem vist ( o no hem executat el gpupdate ) tindrem este error:
 
 
-<img width=60% src="seguretataccescompartitremot/controlRemotNoGPOUsuari.png"></img>
+<img width=60% src="seguretataccescompartitremot/controlRemotNOGPOUsuari.png"></img>
 ## 3.  FIREWALL
 
 Revisem les restriccions possibles del FireWall. 
