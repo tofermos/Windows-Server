@@ -5,25 +5,28 @@ Des d'un client ( Windows 10 Pro ) creem una Connexió Remota amb el Servidor. N
 * Que l'usuari en concret estiga habilitat per usar-lo.
 * Que el Firewall no tinga cap regla impedint-ho.
 
-
 <img width=60% src="seguretataccescompartitremot/HabilitarPropiedadesdelSistema.png"></img>
-
 
 ## Modificació de la GPO Default Domain Policy
 
 Si volem iniciar sessió remota al servidor amb un usuari que no és Administrador, ho haurem de configurar, evidentment, per defecte ve inhabilitat.
 
 Busquem l'Administració de Directives de Grup
+
 <img width=60% src="seguretataccescompartitremot/HabilitarPropiedadesdelSistema.png"></img>
 
 Editem la Default Domain Police
 
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto1.png"></img>
 
+Modifiquem la directiva de seguretat que permet l'accès remot al Servidor
+
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto2.png"></img>
 
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto3.png"></img>
+
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto4.png"></img>
+
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto5.png"></img>
 
 :NOTA: Recordeu executar el gpupdate /force
