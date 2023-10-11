@@ -37,24 +37,16 @@ Devem observar el valor per defecte en la pestanya "Explicación". En este cas n
 >En cas contrari no ens permetrà l'autenticació
 
 
-
-Note
-Recordeu executar el gpupdate /force En cas contrari no ens permetrà l'autenticació
-
-gpupdate /force
-
-Accès des del client
-
-Firewall
-
-Revisem les restriccions possibles del FireWall.
-
-    Regles entrants.
-    Aplicacions permeses.
-
 ```
 gpupdate /force
 ```
+
+
+## Accès des del client
+
+Firewall. Revisem les restriccions possibles del FireWall.
+      * Regles entrants.
+      * Aplicacions permeses.
 
 
 
