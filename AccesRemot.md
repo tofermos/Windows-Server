@@ -26,7 +26,7 @@ Es tracta donar a l'usuari el dret de inciar sessió de forma remota.
 
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto3.png"></img>
 
-Devem observar el valor per defecte en la pestanya "Explicación". En este cas només podien iniciar sessió d'escriptori remot en el seridor els Administradors de domini (en altres equips, també el grup predefinit ddeterminants grups.
+Devem observar el valor per defecte en la pestanya "Explicación". En este cas només podien iniciar sessió d'escriptori remot en el servidor els Administradors de domini.
 
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto4.png"></img>
 
@@ -36,6 +36,21 @@ Devem observar el valor per defecte en la pestanya "Explicación". En este cas n
 >Recordeu executar el **gpupdate /force**
 >En cas contrari no ens permetrà l'autenticació
 
+
+
+Note
+Recordeu executar el gpupdate /force En cas contrari no ens permetrà l'autenticació
+
+gpupdate /force
+
+Accès des del client
+
+Firewall
+
+Revisem les restriccions possibles del FireWall.
+
+    Regles entrants.
+    Aplicacions permeses.
 
 ```
 gpupdate /force
