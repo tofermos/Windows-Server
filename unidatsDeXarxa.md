@@ -11,7 +11,16 @@ Anem a centra-nos en estes últimes. La captura o assignació d'unitats de xarxa
 A més, podem tindre un accès homogeni per a totes les màquines i, fins i tot, automatizar-la.
 
 ## Net use
-Les ordre "net" tenen gran utilitat i poden automatizar-se per a excutar-se dins d'un fitxer *.bat* com vorem més avant.
+Les ordre "net" tenen gran utilitat i poden automatizar-se per a executar-se dins d'un fitxer *.bat* com vorem més avant.
+
+<img width=90% src="unitatsDeXarxa/netUse1.png"></img>
+
+<img width=90% src="unitatsDeXarxa/netUse2.png"></img>
+
+## Mitjançant POWERSHELL
+
+<img width=90% src="unitatsDeXarxa/netUse-POWERSHELL.png"></img>
+
 
 
 
