@@ -70,7 +70,7 @@ Vegem el **bloqueig pel Firewall** del servidor mitjançant una regla d'entrada.
 
 <img width=60% src="seguretataccescompartitremot/reglaFirewallEscritorioRemotoTCP2.png"></img>
 
-## Accès des del client
+## 4. Accès des del client correcte
 
 
 <img width=60% src="WINDOWSSERVER/8.png"></img>
