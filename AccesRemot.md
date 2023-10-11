@@ -44,22 +44,6 @@ gpupdate /force
 
 ## Accès des del client
 
-Firewall. Revisem les restriccions possibles del FireWall.
-      * Regles entrants.
-      * Aplicacions permeses.
-
-
-
-
-
-
-
-
-
-
-
-## Accès des del client
-
 <img width=60% src="WINDOWSSERVER/8.png"></img>
 
 <img width=60% src="gpo/gpoRemot3.png"></img>
