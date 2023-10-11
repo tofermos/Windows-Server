@@ -5,7 +5,7 @@
 >**note**
 >Assegurem que tenim el client configurat com cal (Mirar Instal·lació i configuració del Windows Server). Ho recordem:
 >
->      *  IP del mateix rang que la del servirdor
+>      *  IP del mateix rang que la del servidor
 >      *  La IP del DNS, la del servidor DNS
 >      *  Firewall permetent la compartició de fitxer en ICMP
 >       * Compartir i detectar xarxes activat
