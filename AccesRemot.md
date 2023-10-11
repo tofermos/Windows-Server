@@ -6,28 +6,32 @@ Des d'un client ( Windows 10 Pro ) creem una Connexió Remota amb el Servidor. N
 * Que el Firewall no tinga cap regla impedint-ho.
 
 <img width=60% src="seguretataccescompartitremot/HabilitarPropiedadesdelSistema.png"></img>
+Podem comporvar-ho també excutant des del cmd el **sconfig**
+<img width=60% src="seguretataccescompartitremot/sconfig.png"></img>
 
 ## Modificació de la GPO Default Domain Policy
 
-Si volem iniciar sessió remota al servidor amb un usuari que no és Administrador, ho haurem de configurar, evidentment, per defecte ve inhabilitat.
-
-Obrim la consola d'Administració de Directives de Grup
+Obrim la consola d'Administració de Directives de Grup.
+Des de l'Administrador de Servidor o excutant **gpmc.msc**
 
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto1.png"></img>
 
-Editem la Directiva del Domini per Defecte.
+Editem la Directiva del Domini per Defecte (Default Domain Police).
 
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto2.png"></img>
-
+Es tracta donar a l'usuari el dret de inciar sessió de forma remota.
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto3.png"></img>
 
-Mirem el valor per defecte en la pestanya "Explicación". En este cas nomé spoden inciar sessió d'escriptori remot determinants grups.
+Devem observar el valor per defecte en la pestanya "Explicación". En este cas només podien iniciar sessió d'escriptori remot determinants grups.
 
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto4.png"></img>
 
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto5.png"></img>
 
-:NOTA: Recordeu executar el gpupdate /force
+>**Note**
+>Recordeu executar el **gpupdate /force**
+>En cas contrari no ens permetrà l'autenticació
+
 
 ```
 gpupdate /force
