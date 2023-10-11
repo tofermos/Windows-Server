@@ -40,21 +40,29 @@ Devem observar el valor per defecte en la pestanya "Explicación". En este cas n
 ```
 gpupdate /force
 ```
-
-
-## Accès des del client
-
-<img width=60% src="WINDOWSSERVER/8.png"></img>
-
-<img width=60% src="gpo/gpoRemot3.png"></img>
-<img width=60% src="gpo/gpoRemot4.png"></img>
-
 ## Firewall
 Revisem les restriccions possibles del FireWall. 
 *  Regles entrants.
 *  Aplicacions permeses.
 
 <img width=60% src="seguretataccescompartitremot/AdministracionRemota.png"></img>
+
 <img width=60% src="seguretataccescompartitremot/FirewallEscritorioRemoto.png"></img>
+
+Vegem el **bloqueig pel Firewall** del servidor mitjançant una regla d'entrada.
+
+<img width=60% src="seguretataccescompartitremot/reglaFirewallEscritorioRemotoTCP1.png"></img>
+
+<img width=60% src="seguretataccescompartitremot/reglaFirewallEscritorioRemotoTCP2.png"></img>
+
+## Accès des del client
+
+
+<img width=60% src="WINDOWSSERVER/8.png"></img>
+
+<img width=60% src="gpo/gpoRemot3.png"></img>
+<img width=60% src="gpo/gpoRemot4.png"></img>
+
+
 
 
