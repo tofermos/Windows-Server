@@ -5,7 +5,7 @@ Des d'un client ( Windows 10 Pro ) creem una Connexió Remota amb el Servidor. N
 2.  Que l'usuari en concret estiga habilitat per usar-lo.
 3.  Que el Firewall no ho impedisca.
     3.1  Regla d'entrada bloquejant el protocol
-    3.2  DEsautorització de l'aplicació de *Escritorio remoto*
+    3.2  Desautorització de l'aplicació de *Escritorio remoto*
    
 
 ## 1.  Habilitar el accés de remot al servidor
@@ -45,6 +45,13 @@ Devem observar el valor per defecte en la pestanya "Explicación". En este cas n
 ```
 gpupdate /force
 ```
+
+### Usuario NO auorizado
+
+Si l'usuari no està autoritzat com hem vist ( o no hem executat el gpupdate ) tindrem este error:
+
+
+<img width=60% src="seguretataccescompartitremot/controlRemotNoGPOUsuari.png"></img>
 ## 3.  FIREWALL
 
 Revisem les restriccions possibles del FireWall. 
