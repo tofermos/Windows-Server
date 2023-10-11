@@ -13,14 +13,15 @@ A més, podem tindre un accès homogeni per a totes les màquines i, fins i tot,
 ## Net use
 Les ordre "net" tenen gran utilitat i poden automatizar-se per a executar-se dins d'un fitxer *.bat* com vorem més avant.
 
-<img width=90% src="unitatsDeXarxa/netUse1.png"></img>
+<img width=80% src="unitatsDeXarxa/netUse1.png"></img>
 
-<img width=90% src="unitatsDeXarxa/netUse2.png"></img>
+<img width=80% src="unitatsDeXarxa/netUse2.png"></img>
+
+El "-persistent" és per assegurar que, en reiniciar el PC, es mantinga la captura.
 
 ## Mitjançant POWERSHELL
 
-<img width=90% src="unitatsDeXarxa/netUse-POWERSHELL.png"></img>
-
+<img width=80% src="unitatsDeXarxa/netUse-POWERSHELL.png"></img>
 
 
 
