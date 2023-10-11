@@ -11,11 +11,10 @@ Des d'un client ( Windows 10 Pro ) creem una Connexió Remota amb el Servidor. N
 
 Si volem iniciar sessió remota al servidor amb un usuari que no és Administrador, ho haurem de configurar, evidentment, per defecte ve inhabilitat.
 
-Obrim la consola d'Administració de Directives de Grup
 
 <img width=60% src="seguretataccescompartitremot/HabilitarPropiedadesdelSistema.png"></img>
 
-Agegim l'usuari (podem afegir un grups i usuaris)
+Obrim la consola d'Administració de Directives de Grup
 
 <img width=60% src="seguretataccescompartitremot/GPOControlRemoto1.png"></img>
 
