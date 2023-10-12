@@ -75,6 +75,8 @@ Vegem el **bloqueig pel Firewall** del servidor mitjançant una regla d'entrada.
 
 <img width=60% src="seguretataccescompartitremot/aplicacionesFirewallBloqueo.png"></img>
 
+El **bloqueig del Firewall** ( tant en un cas com en l'altre ) dona el següent error:
+
 <img width=60% src="seguretataccescompartitremot/reglaFirewallEscritorioRemotoTCP2.png"></img>
 
 ## 4. Accès des del client correcte
