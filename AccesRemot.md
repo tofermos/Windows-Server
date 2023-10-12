@@ -46,32 +46,32 @@ Devem observar el valor per defecte en la pestanya "Explicación". En este cas n
 gpupdate /force
 ```
 
-### Usuario NO auorizado
+**Usuario NO autorizado**
 
 Si l'usuari no està autoritzat com hem vist ( o no hem executat el gpupdate ) tindrem este error:
 
 
 <img width=60% src="seguretataccescompartitremot/controlRemotNOGPOUsuari.png"></img>
+
 ## 3.  FIREWALL
 
 Revisem les restriccions possibles del FireWall. 
 *  Regles entrants.
 *  Aplicacions permeses.
 
-## 3.1  
+## 3.1  Regles entrants
 <img width=60% src="seguretataccescompartitremot/AdministracionRemota.png"></img>
 
-## 3.2
-
-<img width=60% src="seguretataccescompartitremot/FirewallEscritorioRemoto.png"></img>
-
-Vegem el **bloqueig pel Firewall** del servidor mitjançant una regla d'entrada.
-
-### Bloqueig per Regla de Entrada al protocol
+**Bloqueig per Regla de Entrada al protocol**
 
 <img width=60% src="seguretataccescompartitremot/reglaFirewallEscritorioRemotoTCP1.png"></img>
 
-### Bloqueig a l'aplicació "Escritorio remoto"
+
+## 3.2 Aplicacions no permeses
+
+<img width=60% src="seguretataccescompartitremot/FirewallEscritorioRemoto.png"></img>
+
+**Bloqueig a l'aplicació "Escritorio remoto"**
 
 <img width=60% src="seguretataccescompartitremot/aplicacionesFirewallBloqueo.png"></img>
 
@@ -85,6 +85,7 @@ El **bloqueig del Firewall** ( tant en un cas com en l'altre ) dona el següent 
 <img width=60% src="WINDOWSSERVER/8.png"></img>
 
 <img width=60% src="gpo/gpoRemot3.png"></img>
+
 <img width=60% src="gpo/gpoRemot4.png"></img>
 
 
