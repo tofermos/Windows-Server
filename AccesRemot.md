@@ -87,7 +87,8 @@ El **bloqueig del Firewall** ( tant en un cas com en l'altre ) dona el següent 
 <img width=60% src="gpo/gpoRemot3.png"></img>
 
 
-Veiem que existeix un **grup predefinit** d'usuaris d'accès remot
+Veiem que existeix un **grup predefinit** d'usuaris d'accès remot:
+    Usuario de escritorio remoto.
 
 
 <img width=60% src="gpo/gpoRemot4.png"></img>
