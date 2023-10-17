@@ -1,5 +1,7 @@
 # Exemples de GPO
 
+Executeu des del terminal (Win+r, cmd) l'ordre **gpupdate /force** després de cada modificació. 
+
 
 ## EXEMPLE 1.  GPO per a capturar unitats de xarxa.
 
