@@ -33,16 +33,17 @@ Creem una directiva de grup que vincularem al domini o la UO que ens interesse o
 >Des d'*Usuaris i equips de l'AD* , executeu *Restablir Contrassenya* d'algun usuari i proveu la nova directiva.
 
 
-## EXEMPLE 3. ACCÉS REMOT PER A USUARI NO ADMINSITRADOR
+## EXEMPLE 3. ACCÉS REMOT PER A USUARI NO ADMINISTRADOR
 
 Des d'un client ( Windows 10 Pro ) creem una Connexió Remota amb el Servidor. Necessitareu:
 * Que el servidor tinga habilitat l'accés remot.
 * Que l'usuari en concret estiga habilitat per usar-lo.
 * Que el Firewall no tinga cap regla impedint-ho.
 
+>:link: Consulteu el tema de **Accés per control remot**
 >Inicieu una sessió remota des del client i entreu a l'explorador del Servidor.
 
-<img width=70% src="seguretataccescompartitremot/habilitarescritorioremoto.png"</img>
+
 
 <img width=60% src="WINDOWSSERVER/8.png"></img>
 
