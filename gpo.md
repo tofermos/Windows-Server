@@ -1,6 +1,6 @@
 # Exemples de GPO
 
->**Caution**
+>**Note**
 >Executeu des del terminal (Win+r, cmd) l'ordre **gpupdate /force** després de cada modificació. 
 
 
