@@ -15,7 +15,7 @@
 [Permisos SHARE en Windows Server]:https://github.com/tofermos/Windows-Server/blob/main/compartirCarpetesWindowsServer.md
 [Assignació d'unitats de xarxa]:https://github.com/tofermos/Windows-Server/blob/main/unitatsDeXarxa.md
 [Escriptori Remot]:https://github.com/tofermos/Windows-Server/blob/main/AccesRemot.md
-[Exemples de directives de grup]:https://github.com/tofermos/Windows-Server/blob/main/GPO.md
+[Exemples de directives de grup]:https://github.com/tofermos/Windows-Server/blob/main/gpo.md
 [RAIDs i Backup en Windows Server]:https://github.com/tofermos/Windows-Server/blob/main/RAIDiBackup.md
 [Perfils mòbils i carpetes de treball]:https://github.com/tofermos/Windows-Server/blob/main/PerfilsMobils.md
 
