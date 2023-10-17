@@ -4,8 +4,8 @@ Des d'un client ( Windows 10 Pro ) creem una Connexió Remota amb el Servidor. N
 1.  Que el servidor tinga habilitat l'accés remot.
 2.  Que l'usuari en concret estiga habilitat per usar-lo.
 3.  Que el Firewall no ho impedisca.
-    3.1  Regla d'entrada bloquejant el protocol
-    3.2  Desautorització de l'aplicació de *Escritorio remoto*
+      3.1  Regla d'entrada bloquejant el protocol
+        3.2  Desautorització de l'aplicació de *Escritorio remoto*
    
 
 ## 1.  Habilitar el accés de remot al servidor
