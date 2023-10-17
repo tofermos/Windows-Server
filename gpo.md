@@ -1,6 +1,6 @@
 # Exemples de GPO
 
->**Note**
+>**Caption**
 >Executeu des del terminal (Win+r, cmd) l'ordre **gpupdate /force** després de cada modificació. 
 
 
