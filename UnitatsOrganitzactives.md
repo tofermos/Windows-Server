@@ -6,6 +6,10 @@ Estes subdivisions poden fer-s'hi en base a 3 criteris:
 2-  Organització interna ( agrupant departaments de l'empreses que poden equivaldre a grups d'usuaris...)
 3-  Dinàmiques, de projectes on van incorporant-se o abandonant usuaris per exemple.
 
+>**Note**
+>Per a la gestió de UO des del PowerShell consulteu la fitxa corresponent:
+>https://github.com/tofermos/PowerShell/UnitatsOrganitzatives.md
+
 ## Creació
 
 <img width=60% src="UO/UO1.png"></img>
@@ -33,6 +37,7 @@ Per defecte es creen protegides per evitar eliminacions o canvis d'ubicació acc
 
 <img width=60% src="UO/uo1.png"></img>
 
->:Note:
+>**Note**
 >El més habitual serà que l'usuari siga Administrador i puga iniciar sessió de forma remota.
+>Consulteu la fitxa de Escriptori Remot
 
