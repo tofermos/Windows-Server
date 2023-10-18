@@ -8,7 +8,7 @@ Estes subdivisions poden fer-s'hi en base a 3 criteris:
 
 >**Note**
 >Per a la gestió de UO des del PowerShell consulteu la fitxa corresponent:
->https://github.com/tofermos/PowerShell/UnitatsOrganitzatives.md
+>https://github.com/tofermos/PowerShell/ADUnitatsOrganitzatives.md
 
 ## Creació
 
