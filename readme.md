@@ -5,7 +5,7 @@
 3.  [Compartició de carpetes. Permisos SHARE][Permisos SHARE en Windows Server]
 4.  [Assignació d'unitats de xarxa][Assignació d'unitats de xarxa]
 5.  [Escriptori remot][Escriptori Remot]
-6.  [Unitats Organitzatives][Unitatas Organitzatives]
+6.  [Unitats Organitzatives][Unitats Organitzatives]
 7.  [Exemples de directives de grup][Exemples de directives de grup]
 8.  [RAIDs i Backup en Windows Server][RAIDs i Backup en Windows Server]
 9.  [Perfils mòbils i carpetes de treball][Perfils mòbils i carpetes de treball]
