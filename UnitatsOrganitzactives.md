@@ -33,6 +33,6 @@ Per defecte es creen protegides per evitar eliminacions o canvis d'ubicació acc
 
 <img width=60% src="UO/uo1.png"></img>
 
->::Nota::
+>::Note::
 >El més habitual serà que l'usuari siga Administrador i puga iniciar sessió de forma remota.
 
