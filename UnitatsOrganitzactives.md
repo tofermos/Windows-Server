@@ -18,14 +18,14 @@ Quan intentem moure o eliminar una UO tenim un missatge avisant que el canvi pot
 
 Si acceptem veiem que és habitual que no ens deixe.
 
-<img width=60% src="UO/uoMoverNoPermiso.png"></img>
+<img width=60% src="UO/uoMoverNOPermiso.png"></img>
 
 Per defecte es creen protegides per evitar eliminacions o canvis d'ubicació accidentals. Ho hem de desprotegir prèviament.
 
 <img width=60% src="UO/uoVerCaracteristicasAvanzadas.png"></img>
 
 
-<img width=60% src="UO/uoPtotegerContraEliminacion.png"></img>
+<img width=60% src="UO/uoProtegerContraEliminacion.png"></img>
 
 # Delegació 
 
