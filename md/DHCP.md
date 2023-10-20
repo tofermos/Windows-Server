@@ -61,6 +61,13 @@ Indiquem la IP que té el servidor amb el servei DNS.
 
 <img width=60% src=../png/DHCP/DHCP13.png>
 
+## DHCP com servei
+
+Mirarem més avant el servicis però podem observar ja alguna caracterísca.
+* Podem reiniciar-lo o aturar-lo
+<img width=60% src=../png/DHCP/serviciDHCP0.png>
+
+
 ## Client 
 
 En el client devem canviar la configuració de la NIC i especificar que, ara, la IP l'assignarà el DHCP
