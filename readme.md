@@ -12,12 +12,13 @@
 
 
 [Implantació de l'AD-DS](md/ADDSenWindowsServerGUI.md)
-[Afegir un client Windows 1x al Domini]:https://github.com/tofermos/Windows-Server/blob/main/afegirWindows10aDominiWindowsServer.md
-[Permisos SHARE en Windows Server]:https://github.com/tofermos/Windows-Server/blob/main/compartirCarpetesWindowsServer.
-[Assignació d'unitats de xarxa]:https://github.com/tofermos/Windows-Server/blob/main/unitatsDeXarxa.md
-[Escriptori Remot]:https://github.com/tofermos/Windows-Server/blob/main/AccesRemot.md
-[Unitats Organitzatives]:https://github.com/tofermos/PowerShell/blob/main/ADunitatsOrganitzatives.md
-[Exemples de directives de grup]:https://github.com/tofermos/Windows-Server/blob/main/gpo.md
-[RAIDs i Backup en Windows Server]:https://github.com/tofermos/Windows-Server/blob/main/RAIDiBackup.md
-[Perfils mòbils i carpetes de treball]:https://github.com/tofermos/Windows-Server/blob/main/PerfilsMobils.md
+
+[Afegir un client Windows 1x al Domini](md/afegirWindows10aDominiWindowsServer.md)
+[Permisos SHARE en Windows Server](md/compartirCarpetesWindowsServer.md)
+[Assignació d'unitats de xarxa](md/unitatsDeXarxa.md)
+[Escriptori Remot](md/AccesRemot.md)
+[Unitats Organitzatives](md/.md)
+[Exemples de directives de grup](md/gpo.md)
+[RAIDs i Backup en Windows Server](md/RAIDiBackup.md)
+[Perfils mòbils i carpetes de treball](md/PerfilsMobils.md)
 
