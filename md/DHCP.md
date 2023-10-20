@@ -89,11 +89,19 @@ En el client devem canviar la configuració de la NIC i especificar que, ara, la
 ### El servici DHCP en el client.
 
 L'assignació dinàmica de IP o protocol DHCP respon al **model client servidor**. Altra qüestió és que la implementació del "client DHCP" en els PC satèlits o clients siga mitjançant un "servei local de Windows".
+Per vore el software client, entrem en la consola de serveis: **services.msc**
 
-|Model C/S| Nom del servici Windows|
+|Model C/S| Nom del servici Windows|Acció|
 |---|---|---|
 |Servidor DHCP|"Servicio DHCP" en Windows Server|Reb peticions de IP de dispositius i les assigna|
 |Client DHCP|"Cliente DHCP" en Windows 1x|Sol·licita peticions de IP i, en rebre la configura|
+
+<img width=60% src=../png/DHCP/ServiciClientDHCP0.png>
+<img width=60% src=../png/DHCP/ServiciClientDHCP1.png>
+<img width=60% src=../png/DHCP/ServiciClientDHCP2.png>
+
+
+
 
 
 
