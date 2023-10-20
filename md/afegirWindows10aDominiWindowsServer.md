@@ -12,7 +12,8 @@
 >
 
 ## 2- Afegim el client al Domini
-*Panel de Control, Sistema, Cambiar configuración*
+*Panel de Control, Sistema, Cambiar configuración*importing, and which you sign. You can find GitHub's web flow GPG public ...
+Més cerques
 o
 *Este Equipo, Propiedades...*
 
@@ -61,7 +62,7 @@ Si intentem indicar una contrasenay senzill, curta, fàcil... vorem que no ens h
 
 Observem que tots els usuaris del domini perntanyen a un grup preexitent "Usuarios del Dominio".
 
-<img width=60% src="ADDS/grupousuariosdeldominio.png"></img>
+<img width=60% src="../png/ADDS/grupousuariosdeldominio.png"></img>
 
 **Iniciem sessió**
 
