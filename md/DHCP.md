@@ -10,7 +10,7 @@ Un dels servicis més típics i usats d'un servidor senzill de xarxa és l'assig
 <img width=60% src=../png/DHCP/DHCP2.png>
 
 
-<img width=60% src=../png/DHCP/DHCP1.png>
+<img width=60% src=../png/DHCP/DHCP3.png>
 
 
 <img width=60% src=../png/DHCP/DHCP4.png>
