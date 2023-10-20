@@ -32,7 +32,9 @@ Creem una Directiva de Grup que per a que tots els usuaris, en iniciar sessió a
 <img width=90% src="../png/unitatsDeXarxa/CapturaGPO.png"></img>
 
 >**Note**
->La GPO tindrà efecte en tots el PC del domini de la UO o DOmini sobre la qual l'apliquem. El cmd ( net use) o el cmd ( New-PSdrive ) només en els PC clients on s'execute ( més avant mirarem com automatitzar l'execució en l'inici de la màquina.
->Ací veiem una utilitat de les Unitats Organitzatives: Amb esta GPO, podem fer que **les máquines d'una UO tinguen mapejades unes carpetes distintes a les máquines d'altra UO**
+>La GPO tindrà efecte en tots el PC del domini de la UO o DOmini sobre la qual l'apliquem. El cmd ( net use) o el cmd ( New-PSdrive ) només en els PC clients on s'execute ( més avant mirarem com
+>automatitzar l'execució en l'inici de la màquina.
+>
+>Ací veiem una utilitat de les Unitats Organitzatives: Amb esta GPO, podem fer que **en una UO estiguen mapejades unes carpetes distintes a altres UO**
 
 
