@@ -10,13 +10,13 @@ Primer crearem una carpeta per a que tots el usuaris del domini guarden el seu p
 
 > Comprovarem inciciant la sessió en dos PC clients amb el mateix usuari.
 
-<img width=70% src="WINDOWSSERVER/permisosPerfils.png"></img>
+<img width=70% src="../png/WINDOWSSERVER/permisosPerfils.png"></img>
 
 Assigna l'adreça en les PROPIETATS de cada usuari.
 Podeu entrar executant el **dsa.msc**
 
-<img width=60% src="WINDOWSSERVER/permisosPerfils2.png"></img>
-<img width=60% src="WINDOWSSERVER/permisosPerfils3.png"></img>
+<img width=60% src="../png/WINDOWSSERVER/permisosPerfils2.png"></img>
+<img width=60% src="../png//permisosPerfils3.png"></img>
 
 Avantatges:
 * Possibilitat d'iniciar la sessió en qualsevol PC client i disposar del teu perfil ( Escriptori, Documents, Baixades...)
@@ -33,11 +33,11 @@ Son unes carpetes que poden ser emprades per desar els treballs de cada usuari a
 
 L'exemple següent veiem com assignem una unitat a una carpeta compartida al servidor ( des del matei servidor!). Accedint a ella entrarem a través de la xarxa.
 
-<img width=60% src="seguretataccescompartitremot/netShare.png"></img>
+<img width=60% src="../png/seguretataccescompartitremot/netShare.png"></img>
 
-<img width=60% src="seguretataccescompartitremot/netUSe.png"></img>
+<img width=60% src="../png/seguretataccescompartitremot/netUSe.png"></img>
 
-<img width=60% src="WINDOWSSERVER/permisosPerfils3.png"></img>
+<img width=60% src="../png/WINDOWSSERVER/permisosPerfils3.png"></img>
 
-<img width=60% src="WINDOWSSERVER/permisosPerfils3.png"></img>
+<img width=60% src="../png/WINDOWSSERVER/permisosPerfils3.png"></img>
 
