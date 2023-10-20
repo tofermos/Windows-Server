@@ -33,7 +33,7 @@ Ho hem de revisar en **LES DOS MÀQUINES**
 
 **Detecció de xarxa i ús compartit**
 
-*Win+R: Configuración, Red e internet, Centro de Redes y Recursos Compartidos, Cambiar configuración del  Uso compartido avanzado:*
+*Win+R: Configuración, Red e internet, Centro de Redes y Recursos Compaçartidos, Cambiar configuración del  Uso compartido avanzado:*
     
     * Activar la detección de redes
     * Activar el uso compartido de carpetas e impresoras.
