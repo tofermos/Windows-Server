@@ -17,19 +17,19 @@ o
 *Este Equipo, Propiedades...*
 
 
-<img width=60% src="WINDOWSSERVER/18.png"></img>
+<img width=60% src="../png/WINDOWSSERVER/18.png"></img>
 
 Vos demanarà un **compte amb drets d'Administrador en el Domini**.
 Podem usar el que hem creat en la instal·lació del Server.
 
-<img width=60% src="ADDS/demanacompteadministradordeldomini.png"></img>
+<img width=60% src="../png/ADDS/demanacompteadministradordeldomini.png"></img>
 
 
 :computer: En el SERVIDOR, podeu visulitzar el PC afegit al Domini en **Usuaris i Equips d'Active Directoy**
 
 Podeu entrar executant el **dsa.msc** ( Winn + R ...)
 
-<img width=60% src="WINDOWSSERVER/20.png"></img>
+<img width=60% src="../png/WINDOWSSERVER/20.png"></img>
 
 ## 3.  Iniciem sessió al Domini des del Client
 
@@ -38,24 +38,24 @@ Per iniciar sessión en el domini des del Windows 1X, encara que podríem usar a
 **3.1 Creem l'usuari**
 Des de l'Administrador del Servidor veiem les dos funcionalitats des d'on podem accedir a la gestió de comptes.
 
-<img width=60% src="ADDS/centroadministracionactivedirectory.png"></img>
+<img width=60% src="../png/ADDS/centroadministracionactivedirectory.png"></img>
 
 
 Centro de Administración del Active Directory
 
-<img width=50% src="ADDS/administradordelservidorADDS.png"></img>
+<img width=50% src="../png/ADDS/administradordelservidorADDS.png"></img>
 
 Usuarios y equipos del AD
 
-<img width=60% src="ADDS/usuariosyequiposactivedirectory.png"></img>
+<img width=60% src="../png/ADDS/usuariosyequiposactivedirectory.png"></img>
 
 **Contrasenya amb requisits de complexitat**
 
 Si intentem indicar una contrasenay senzill, curta, fàcil... vorem que no ens ho permet el SO. Més avant tractarem estos requisits i altres característiques de la contrassenya i dels comptes. 
 
-<img width=60% src="ADDS/creausuaridomini.png"></img>
+<img width=60% src="../png/ADDS/creausuaridomini.png"></img>
 
-<img width=60% src="ADDS/creausuaridominicontrasenya.png"></img>
+<img width=60% src="../png/ADDS/creausuaridominicontrasenya.png"></img>
 
 **El grup "Usuarios del dominio"**
 
