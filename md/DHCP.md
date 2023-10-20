@@ -73,9 +73,9 @@ Mirarem més avant els servicis però podem observar ja alguna característica t
 
   <img width=60% src=../png/DHCP/ServiciDHCP1.png>
 
-* No està associciat a cap compte d'usuari en concret.
+* No està associciat a cap compte d'usuari en concret que haja d'iniciar sessió
 
-  Només cal iniciar sessió en un servidor puntualment per a tasques de manteniment. La major
+  Només cal iniciar sessió en un servidor puntualment per a tasques de manteniment.
   
   <img width=60% src=../png/DHCP/ServiciDHCP2.png>
 
@@ -85,11 +85,13 @@ Mirarem més avant els servicis però podem observar ja alguna característica t
 En el client devem canviar la configuració de la NIC i especificar que, ara, la IP l'assignarà el DHCP
 
 
-### Gateway (porta d'enllaç) o encaminador
+## Gateway (porta d'enllaç) o encaminador
 
 Indiquem la IP que hem configurat al router.
 
 <img width=60% src=../png/DHCP/DHCP14.png>
+
+
 
 
 
