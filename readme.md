@@ -14,7 +14,9 @@
 [Implantació de l'AD-DS](md/ADDSenWindowsServerGUI.md)
 
 [Afegir un client Windows 1x al Domini](md/afegirWindows10aDominiWindowsServer.md)
+
 [Permisos SHARE en Windows Server](md/compartirCarpetesWindowsServer.md)
+
 [Assignació d'unitats de xarxa](md/unitatsDeXarxa.md)
 [Escriptori Remot](md/AccesRemot.md)
 [Unitats Organitzatives](md/.md)
