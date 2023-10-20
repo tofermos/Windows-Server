@@ -94,7 +94,7 @@ Per vore el software client, entrem en la consola de serveis: **services.msc**
 |Model C/S| Nom del servici Windows|Acció|
 |---|---|---|
 |Servidor DHCP|"Servicio DHCP" en Windows Server|Reb peticions de IP de dispositius i les assigna|
-|Client DHCP|"Cliente DHCP" en Windows 1x|Sol·licita peticions de IP i, en rebre la configura|
+|Client DHCP|"Cliente DHCP" en Windows 1x|Sol·licita IP i, en rebre-la, la configura a la tarja|
 
 <img width=60% src=../png/DHCP/ServiciClientDHCP0.png>
 <img width=60% src=../png/DHCP/ServiciClientDHCP1.png>
