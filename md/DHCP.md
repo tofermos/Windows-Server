@@ -63,7 +63,7 @@ Indiquem la IP que té el servidor amb el servei DNS.
 
 ## DHCP com servei
 
-Mirarem més avant el servicis però podem observar ja alguna caracterísca típica d'este software de servidor:
+Mirarem més avant els servicis però podem observar ja alguna característica típica d'este software de servidor. Entrem a la consola de Serveis (**services.msc**):
 
 * Podem reiniciar-lo o aturar-lo
   
@@ -71,13 +71,13 @@ Mirarem més avant el servicis però podem observar ja alguna caracterísca típ
 
 * El tipus d'inici per defecte és, obviament, automàtic
 
-  <img width=60% src=../png/DHCP/ServiciDHCP0.png>
+  <img width=60% src=../png/DHCP/ServiciDHCP1.png>
 
 * No està associciat a cap compte d'usuari en concret.
 
   Només cal iniciar sessió en un servidor puntualment per a tasques de manteniment. La major
   
-  <img width=60% src=../png/DHCP/ServiciDHCP0.png>
+  <img width=60% src=../png/DHCP/ServiciDHCP2.png>
 
 
 ## Client 
