@@ -91,12 +91,10 @@ En el client devem canviar la configuració de la NIC i especificar que, ara, la
 L'assignació dinàmica de IP o protocol DHCP respon al **model client servidor**. Altra qüestió és que la implementació del "client DHCP" en els PC satèlits o clients siga mitjançant un "servei local de Windows".
 
 |Model C/S| Nom del servici Windows|
-|---|---|
-|Servidor DHCP|Servicio DHCP|
-|Client DHCP|Cliente DHCP|
+|---|---|---|
+|Servidor DHCP|"Servicio DHCP" en Windows Server|Reb peticions de IP de dispositius i les assigna|
+|Client DHCP|"Cliente DHCP" en Windows 1x|Sol·licita peticions de IP i, en rebre la configura|
 
-* Un "servei de Windows Server" ofereix el servei DHCP en el servidor.
-* Uns "serveis de Windows 1x" sol·liciten les IP al servidor. 
 
 
 
