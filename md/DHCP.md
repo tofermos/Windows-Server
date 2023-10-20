@@ -84,14 +84,18 @@ Mirarem més avant els servicis però podem observar ja alguna característica t
 
 En el client devem canviar la configuració de la NIC i especificar que, ara, la IP l'assignarà el DHCP
 
-
-## Gateway (porta d'enllaç) o encaminador
-
-Indiquem la IP que hem configurat al router.
-
 <img width=60% src=../png/DHCP/DHCP14.png>
 
+### El servici DHCP en el client.
 
+L'assignació dinàmica de IP o protocol DHCP respon al **model client servidor**. Altra qüestió és que la implementació del "client DHCP" en els PC satèlits o clients siga mitjançant un "servei local de Windows".
+
+|Model C/S| Nom del servici Windows|
+|Servidor DHCP|Servicio DHCP|
+|Client DHCP|Cliente DHCP|
+
+* Un "servei de Windows Server" ofereix el servei DHCP en el servidor.
+* Uns "serveis de Windows 1x" sol·liciten les IP al servidor. 
 
 
 
