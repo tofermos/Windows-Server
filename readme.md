@@ -10,4 +10,5 @@
 7. [Exemples de directives de grup](md/gpo.md)
 8. [RAIDs i Backup en Windows Server](md/RAIDiBackup.md)
 9. [Perfils mòbils i carpetes de treball](md/PerfilsMobils.md)
+10. [Servei DHCP](md/DHCP.md)
 
