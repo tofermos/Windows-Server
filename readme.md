@@ -11,7 +11,7 @@
 9.  [Perfils mòbils i carpetes de treball][Perfils mòbils i carpetes de treball]
 
 
-[Implantació de l'AD-DS]/md/ADDSenWindowsServerGUI.md
+[Implantació de l'AD-DS](md/ADDSenWindowsServerGUI.md)
 [Afegir un client Windows 1x al Domini]:https://github.com/tofermos/Windows-Server/blob/main/afegirWindows10aDominiWindowsServer.md
 [Permisos SHARE en Windows Server]:https://github.com/tofermos/Windows-Server/blob/main/compartirCarpetesWindowsServer.
 [Assignació d'unitats de xarxa]:https://github.com/tofermos/Windows-Server/blob/main/unitatsDeXarxa.md
