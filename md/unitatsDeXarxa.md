@@ -13,15 +13,15 @@ A més, podem tindre un accès homogeni per a totes les màquines i, fins i tot,
 ## Net use
 Les ordre "net" tenen gran utilitat i poden automatizar-se per a executar-se dins d'un fitxer *.bat* com vorem més avant.
 
-<img width=80% src="unitatsDeXarxa/netUse1.png"></img>
+<img width=80% src="../png/unitatsDeXarxa/netUse1.png"></img>
 
-<img width=80% src="unitatsDeXarxa/netUse2.png"></img>
+<img width=80% src="../png/unitatsDeXarxa/netUse2.png"></img>
 
 El "-persistent" és per assegurar que, en reiniciar el PC, es mantinga la captura.
 
 ## Mitjançant POWERSHELL
 
-<img width=80% src="unitatsDeXarxa/netUse-POWERSHELL.png"></img>
+<img width=80% src="../png/unitatsDeXarxa/netUse-POWERSHELL.png"></img>
 
 
 
@@ -29,6 +29,10 @@ El "-persistent" és per assegurar que, en reiniciar el PC, es mantinga la captu
 
 Creem una Directiva de Grup que per a que tots els usuaris, en iniciar sessió al domini, tinguen capturada una unitat de xarxa. D'altra forma caldría usar en "net use" des de cada màquina ( scrpit o bat en l'inici)
 
-<img width=90% src="unitatsDeXarxa/CapturaGPO.png"></img>
+<img width=90% src="../png/unitatsDeXarxa/CapturaGPO.png"></img>
+
+>**Note**
+>La GPO tindrà efecte en tots el PC del domini de la UO o DOmini sobre la qual l'apliquem. El cmd ( net use) o el cmd ( New-PSdrive ) només en els PC clients on s'execute ( més avant mirarem com automatitzar l'execució en l'inici de la màquina.
+>Ací veiem una utilitat de les Unitats Organitzatives: Amb esta GPO, podem fer que **les máquines d'una UO tinguen mapejades unes carpetes distintes a les máquines d'altra UO**
 
 
