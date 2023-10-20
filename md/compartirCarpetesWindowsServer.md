@@ -8,13 +8,13 @@ En Windows tenim dos sistems de compartició per a carpetes i fitxers.
 
 Des del Servidor compartim unes carpetes.
 
-<img width=60% src="PermisosSHARE/CarpetesCompartides1.png"></img>
+<img width=60% src="../png/PermisosSHARE/CarpetesCompartides1.png"></img>
 
-<img width=60% src="PermisosSHARE/CarpetesCompartides2.png"></img>
+<img width=60% src="../png/PermisosSHARE/CarpetesCompartides2.png"></img>
 
 Podeu usar la consola **fsmgmt.msc** de CARPETES COMPARTIDES per crear, compartir i assignar permisos NTFS.
 
-<img width=60% src="WINDOWSSERVER/CC1.png"></img>
+<img width=60% src="../png/WINDOWSSERVER/CC1.png"></img>
 
 ## 4.2 COMPARTICIÓ AVANÇADA.
 
@@ -22,9 +22,9 @@ Podeu usar la consola **fsmgmt.msc** de CARPETES COMPARTIDES per crear, comparti
 **NOMBRE D'ACCESOS PERMESOS** Podemo limitar la quantitat d'usuaris de la xarxa que poden accedir al mateix temps.
 **NOM DEL RECURS COMPARTIT** Si volem que la carpeta es veja a la xarxa amb un altre nom
 
-<img width=60% src="PermisosSHARE/usCompartitAvançat.png"></img>
-<img width=60% src="PermisosSHARE/usCompartitAvançat2.png"></img>
-<img width=60% src="PermisosSHARE/usCompartitAvançat3.png"></img>
+<img width=60% src="../png/PermisosSHARE/usCompartitAvançat.png"></img>
+<img width=60% src="../png/PermisosSHARE/usCompartitAvançat2.png"></img>
+<img width=60% src="../png/PermisosSHARE/usCompartitAvançat3.png"></img>
 
 
 ## 4.3 ACCÉS PER LA XARXA A LES CARPETES COMPARTIDES
@@ -40,9 +40,9 @@ Si observem, podem vore les carpetes des de Red del client ( Windows 1x ) de 4 f
 * Des de l'interface d'ordres amb NET SHARE. Només per visualitzar.
 * Des de Powershell ( Ho estudiarem més avant )
 
-  <img width=60% src="PermisosSHARE/CarpetesCompartidesDesdeWin10.png"></img>
+  <img width=60% src="../png/PermisosSHARE/CarpetesCompartidesDesdeWin10.png"></img>
 
-  <img width=60% src="PermisosSHARE/CarpetesCompartidesDesdeWin10IP.png"></img>
+  <img width=60% src="../png/PermisosSHARE/CarpetesCompartidesDesdeWin10IP.png"></img>
 
-  <img width=60% src="PermisosSHARE/CarpetesCompartidesOcultesDesdeWin10.png"></img>
+  <img width=60% src="../png/PermisosSHARE/CarpetesCompartidesOcultesDesdeWin10.png"></img>
   
