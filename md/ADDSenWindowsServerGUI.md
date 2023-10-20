@@ -18,8 +18,8 @@ Comprovar que tenim connectivitat fent **ping** i **ipconfig**.
 
 Afegirem 2 targes, una per a emular la xarxa local ( Xarxa interna ) i l'altra per disposar de la connexió d'Internet de l'amfitrió.
 
-<img width=60% src="png/ADDS/xarxainternavbwindowsserver.png"></img>
-<img width=60% src="png/ADDS/adaptadorpontvbwindowsserver.png"></img>
+<img width=60% src="../png/ADDS/xarxainternavbwindowsserver.png"></img>
+<img width=60% src="../png/ADDS/adaptadorpontvbwindowsserver.png"></img>
 
 En el WINDOWS 1x hem de tindre NOMÉS la tarja interna.
 
