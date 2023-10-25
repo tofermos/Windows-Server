@@ -9,7 +9,7 @@
 
 # Configuració de les targes en Servidor
 
-<img src="../png/enrutament/ConfigurarNICServidorInterna.png" width="60%"></img>
+<img src="../png/enrutament/ConfiguraNICServidorInterna.png" width="60%"></img>
 
 Ens dona un avís de possible error...
 
