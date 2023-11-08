@@ -18,9 +18,10 @@ Podeu usar la consola **fsmgmt.msc** de CARPETES COMPARTIDES per crear, comparti
 
 ## 4.2 COMPARTICIÓ AVANÇADA.
 
-**CONTROL TOTAL** Permís per a canviar el permisos i propietari.
-**NOMBRE D'ACCESOS PERMESOS** Podemo limitar la quantitat d'usuaris de la xarxa que poden accedir al mateix temps.
-**NOM DEL RECURS COMPARTIT** Si volem que la carpeta es veja a la xarxa amb un altre nom
+* CONTROL TOTAL Permís per a canviar el permisos i propietari.
+* NOMBRE D'ACCESOS PERMESOS podem limitar la quantitat d'usuaris de la xarxa que poden accedir al mateix temps.
+* NOM DEL RECURS COMPARTIT Si volem que la carpeta es veja a la xarxa amb un altre nom
+  
 
 <img width=60% src="../png/PermisosSHARE/usCompartitAvançat.png"></img>
 <img width=60% src="../png/PermisosSHARE/usCompartitAvançat2.png"></img>
