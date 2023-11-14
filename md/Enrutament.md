@@ -26,6 +26,7 @@ Confirmem ("Si") que volem esta configuració. El problema se solventarà precis
 
 # Instal·lació del ROL "Acceso remoto"
 
+<img src="../png/enrutament/ConfigurarEnrutamientoyAccesoRemoto.png" width="60%"></img>
 <img src="../png/enrutament/ConfigurarEnrutamientoyAccesoRemoto2.png" width="60%"></img>
 
 <img src="../png/enrutament/ROLAccesoRemoto.png" width="60%"></img>
@@ -36,7 +37,6 @@ Confirmem ("Si") que volem esta configuració. El problema se solventarà precis
 
 ## Configuració
 
-<img src="../png/enrutament/ConfigurarEnrutamientoyAccesoRemoto.png" width="60%"></img>
 <img src="../png/enrutament/ConfigurarEnrutamientoyAccesoRemoto2.png" width="60%"></img>
 <img src="../png/enrutament/ConfigurarEnrutamientoyAccesoRemoto3.png" width="60%"></img>
 <img src="../png/enrutament/ConfigurarEnrutamientoyAccesoRemoto4.png" width="60%"></img>
