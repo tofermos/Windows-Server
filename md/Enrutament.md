@@ -34,7 +34,7 @@ Confirmem ("Si") que volem esta configuració. El problema se solventarà precis
 <img src="../png/enrutament/6-ConfigurarEnrutamientoyAccesoRemoto4.png" width="60%"></img>
 
 <img src="../png/enrutament/7-ComprovaExterna.png" width="60%"></img>
-<img src="../png/enrutament/7-ComprovaInterna.png" width="60%"></img>
+<img src="../png/enrutament/8-ComprovaInterna.png" width="60%"></img>
 
 
 # Configuració de la tarja del client IP Estàtica
