@@ -19,19 +19,14 @@ Ens dona un avís de possible error...
 Es normal donat que la IP del GateWay no és del rang de la IP estàtica (no pot comunicar-se )...
 Confirmem ("Si") que volem esta configuració. El problema se solventarà precisament en acabar de configurar l'enrutament.
 
-# GateWay en el Servicio DHCP del Servidor
-
-<img src="../png/enrutament/DHCPServidor.png" width="60%"></img>
-
-
 # Instal·lació del ROL "Acceso remoto"
 
+<img src="../png/enrutament/3-ConfigurarEnrutamientoyAccesoRemoto.png" width="60%"></img>
 <img src="../png/enrutament/1-ROLAccesoRemoto.png" width="60%"></img>
 <img src="../png/enrutament/2-ROLAccesoRemoto1.png" width="60%"></img>
 
 ## Configuració
 
-<img src="../png/enrutament/3-ConfigurarEnrutamientoyAccesoRemoto.png" width="60%"></img>
 <img src="../png/enrutament/4-ConfigurarEnrutamientoyAccesoRemoto2.png" width="60%"></img>
 
 
@@ -42,13 +37,16 @@ Confirmem ("Si") que volem esta configuració. El problema se solventarà precis
 <img src="../png/enrutament/7-ComprovaInterna.png" width="60%"></img>
 
 
-# Configuració de la tarja del client
+# Configuració de la tarja del client IP Estàtica
 
-## IP estàtica
 
 <img src="../png/enrutament/NODHCPClient.png" width="60%"></img>
 
-## DHCP
+# DHCP
+
+## GateWay en el Servicio DHCP del Servidor
+
+<img src="../png/enrutament/DHCPServidor.png" width="60%"></img>
 
 <img src="../png/enrutament/DHCPClient.png" width="60%"></img>
 
