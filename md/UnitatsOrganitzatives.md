@@ -16,7 +16,7 @@ Estes subdivisions poden fer-s'hi en base a 3 criteris:
 
 Podem aniuar-les ( unes dins d'altres ) i fer que hereten les "propietats"
 
-## Proteccio contra eliminació i canvi accidental
+## Protecció contra eliminació i canvi accidental
 Quan intentem moure o eliminar una UO tenim un missatge avisant que el canvi pot fer que deixen d'alicar-se directives o afectar als usuaris que la controlen (per exemple).
 <img width=60% src="../png/UO/uoMoverAviso.png"></img>
 
