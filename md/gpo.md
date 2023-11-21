@@ -1,3 +1,7 @@
+# Resum
+A continuació veiem com es cren o modifiquen les directives de grup. Les directives són el sistema de Windows per gestionar els DRETS (AUTORITZAR o DENEGAR) a  realitzar determinades accions en unes màquines. L'àmbit on s'aplicaran podrà ser el DOMINI o una UNITAT ORGANITZATIVA.
+
+Ací veiem un exemple de la utilització o potència de la Unitat Organitzativa.
 # Exemples de GPO
 
 >**Note**
