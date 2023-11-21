@@ -2,8 +2,8 @@
 Les UO son agrupacions o subdivisions del domini per tal de facilitar l'administració. Contenen recursos i objectes.
 Estes subdivisions poden fer-s'hi en base a 3 criteris:
 
-1.  Geogràfic o territorial ( Les típiques delegacions de les empreses .
-2.  Organització interna ( agrupant departaments de l'empreses que poden equivaldre a grups d'usuaris...)
+1.  Geogràfic o territorial (Les típiques delegacions de les empreses).
+2.  Organització interna (agrupant departaments de l'empreses que poden equivaldre a grups d'usuaris...)
 3.  Dinàmiques, de projectes on van incorporant-se o abandonant usuaris per exemple.
 
 >**Note**
