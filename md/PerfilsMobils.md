@@ -16,7 +16,7 @@ Assigna l'adreça en les PROPIETATS de cada usuari.
 Podeu entrar executant el **dsa.msc**
 
 <img width=60% src="../png/WINDOWSSERVER/permisosPerfils2.png"></img>
-<img width=60% src="../png//permisosPerfils3.png"></img>
+<img width=60% src="../png/WINDOWSSERVER/permisosPerfils3.png"></img>
 
 Avantatges:
 * Possibilitat d'iniciar la sessió en qualsevol PC client i disposar del teu perfil ( Escriptori, Documents, Baixades...)
