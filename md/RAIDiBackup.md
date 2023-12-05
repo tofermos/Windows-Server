@@ -8,7 +8,7 @@
 
 # BACKUP 
 
-## Instal·lar ROL de Backup
+## Instal·lar el Backup
 
 Per poder usar la utilitat de Backup de Windows Server cal tenir-la instal·lada. 
 En este cas no la tenim instal·lada com podem observar:
