@@ -17,7 +17,7 @@ En este cas no la tenim instal·lada com podem observar:
 
 Instal·lem la funció des de l'administrador del servidor:
 
-<img width=60% src=../png/WINDOWSSERVER/backup1.png"></img>
+<img width=60% src="../png/WINDOWSSERVER/backup1.png"></img>
 <img width=60% src="../png/WINDOWSSERVER/backup2.png"></img>
 <img width=60% src="../png/WINDOWSSERVER/backup3.png"></img>
 <img width=60% src="../png/WINDOWSSERVER/backup4.png"></img>
