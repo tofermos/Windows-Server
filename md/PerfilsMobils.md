@@ -1,18 +1,18 @@
 # Perfils mòbils.
 
->:Nota: Recordeu si feu importació de màquines virtuals o restaureu imatges, revisar les IP i MAC
+>🔎: Recordeu si feu importació de màquines virtuals o restaureu imatges, revisar les IP i MAC
 
-Primer crearem una carpeta per a que tots el usuaris del domini guarden el seu perfil. Això, a més facilitarà el Backup si se'ns demana.
+Primer crearem una carpeta per a que tots el usuaris del domini guarden el seu perfil. Això, a més, facilitarà el Backup si se'ns demana.
 
 1.  Crear un carpeta Perfils.
-2.  La compartim ( Permisos SHARE ) amb permisos d'escriptura als usuaris del domini que vullguem.
-
+2.  La compartim (Permisos SHARE) amb permisos d'escriptura als usuaris del domini que vullguem.
 
 > Comprovarem inciciant la sessió en dos PC clients amb el mateix usuari.
 
 <img width=70% src="../png/WINDOWSSERVER/permisosPerfils.png"></img>
 
 Assigna l'adreça en les PROPIETATS de cada usuari.
+
 Podeu entrar executant el **dsa.msc**
 
 <img width=60% src="../png/WINDOWSSERVER/permisosPerfils2.png"></img>
